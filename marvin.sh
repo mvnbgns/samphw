@@ -4,7 +4,6 @@ read varname
 echo "Nice meeting you $varname"
 
 echo "Say hello"
-while:
 do
 	read INPUT_STRING
 	case $INPUT_STRING in 
