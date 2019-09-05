@@ -8,7 +8,7 @@ do
 echo "Say hello"
 	read INPUT_STRING
 	case $INPUT_STRING in 
-			hello )
+			hello | Hello )
 			echo "Hello yourself"
 			;;
 		bye)
