@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "This repository was made by marvin and kim"
 echo "What is your name?: "
 read varname
 echo "Nice meeting you $varname"
