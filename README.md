@@ -1,2 +1,7 @@
 # samphw
-This is a hello world sample to be executed in Termux
+
+How to use:
+
+1. pkg install git
+2. git clone [repository]
+3.enjoy
