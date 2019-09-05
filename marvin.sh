@@ -3,6 +3,8 @@ echo "What is your name?: "
 read varname
 echo "Nice meeting you $varname"
 
+while :
+do
 echo "Say hello"
 	read INPUT_STRING
 	case $INPUT_STRING in 
@@ -19,4 +21,5 @@ echo "Say hello"
 			echo "Sorry, I don't understand"
 			;;
 	esac
+done
 
