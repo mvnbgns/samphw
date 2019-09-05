@@ -4,7 +4,6 @@ read varname
 echo "Nice meeting you $varname"
 
 echo "Say hello"
-do
 	read INPUT_STRING
 	case $INPUT_STRING in 
 			hello )
@@ -20,5 +19,4 @@ do
 			echo "Sorry, I don't understand"
 			;;
 	esac
-done
 
