@@ -7,7 +7,7 @@ while:
 do
     read INPUT_STRING
     case $INPUT_STRING in
-    [Hello] | [hello])
+    Hello | hello)
             echo "Hello Yourself"
             ;;
     bye)
