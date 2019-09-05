@@ -3,11 +3,11 @@ echo "What is your name?: "
 read varname
 echo "Nice meeting you $varname"
 
-while:
+while :
 do
     read INPUT_STRING
     case $INPUT_STRING in
-    Hello | hello)
+    Hello | hello )
             echo "Hello Yourself"
             ;;
     bye)
